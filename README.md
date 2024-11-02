@@ -6,7 +6,6 @@
         <title>思垚的信件收集處</title>
     </head>
     <body>
-        <title>思垚的信件收集處</title>
       <h1>土熏玉米</h1>
         <section>
             <h2>2024/10/31 letter</h2>
