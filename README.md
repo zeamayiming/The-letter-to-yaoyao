@@ -5,9 +5,9 @@
         <meta name="keywords" content="si-yao web">
         <title>思垚的信件收集處</title>
     </head>
-    <body>
+    <body bgcolor = "#FFEBCD">
       <h1>土熏玉米</h1>
-        <ul align = "center">
+        <ul>
             <li><a href = "#1">2024/10/31 letter</a></li>
         </ul>
         <section id = "1">
