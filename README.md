@@ -8,7 +8,7 @@
     <body>
       <h1>土熏玉米</h1>
         <ul>
-            <li align = "center"><a href = "#1">2024/10/31 letter</a></li>
+            <p align = "center"><li><a href = "#1">2024/10/31 letter</a></li></p>
         </ul>
         <section id = "1">
             <h2>2024/10/31 letter</h2>
