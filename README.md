@@ -5,7 +5,7 @@
         <meta name="keywords" content="si-yao web">
         <title>思垚的信件收集處</title>
         <style type="text/css">
-            body {background🟫}
+            body {background:🟫}
         </style>
     </head>
     <body>
