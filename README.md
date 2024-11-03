@@ -4,8 +4,11 @@
         <meta charset="utf-8"/>
         <meta name="keywords" content="si-yao web">
         <title>思垚的信件收集處</title>
+        <style type="text/css">
+            body {background:brown}
+        </style>
     </head>
-    <body bgcolor = "brown">
+    <body>
       <h1>土熏玉米</h1>
         <ul>
             <li><a href = "#1">2024/10/31 letter</a></li>
