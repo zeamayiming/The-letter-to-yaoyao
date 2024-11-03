@@ -5,7 +5,7 @@
         <meta name="keywords" content="si-yao web">
         <title>思垚的信件收集處</title>
     </head>
-    <body bgcolor = "#00FFFF"></body>
+    <body bgcolor = "brown"></body>
     <body>
       <h1>土熏玉米</h1>
         <ul>
